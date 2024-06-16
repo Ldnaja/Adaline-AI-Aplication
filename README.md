@@ -20,9 +20,6 @@ The following graphs show the Adaline network's performance in creating a relati
 
 ![Performance Graphs](Perfomance_graphic.png)
 
-## How to Run
-To run this project, you will need to change the directory in the code to point to where your dataset is stored. After that, simply run the Python script to train the model and view the results.
-
 ## Dependencies
 - pandas
 - numpy
